@@ -1,0 +1,115 @@
+/* body.light-theme {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+body.dark-theme {
+    background-color: #2d3a53;
+    color: #ffffff;
+} */
+
+
+.dark
+{
+    background-color: #3e3e42;
+    color: white;
+}
+.light  
+{
+    background-color: whitesmoke;
+    color: black;
+}
+
+.main-div
+{
+    padding: 20px;
+}
+.intro-div
+{
+    background-color: #8AAAE5;
+    height: 200px;
+    text-align: center;
+    padding: 20px;
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    width: 30%;
+    margin: 10px;
+    margin-left: 650px;
+    border-radius: 5px;
+    border: 1px solid rgb(79, 76, 76);
+
+
+}
+
+#themebtn
+{
+    background-color: #FFFFFF;
+    border: 1px solid black;
+    border-radius: 9px;
+    height: 20px;
+    width: 90px;
+    text-align: center;
+    margin-left: px;
+    cursor: pointer;
+
+
+}
+#themebtn:hover
+{
+    background-color: grey;
+}
+
+.content-div
+{
+    background-color: #8AAAE5;
+    height: 200px;
+    text-align: center;
+    align-items: center;
+    padding: 20px;
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    width: 30%;
+    margin-left: 650px;
+    border-radius: 5px;
+    border: 1px solid rgb(79, 76, 76);
+
+
+}
+
+#message
+{
+    font-size: 0.9rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 5px;
+    
+
+}
+
+#myInput
+{
+    background-color: whitesmoke;
+    border: 1px solid black;
+    border-radius: 8px;
+    width: 70%;
+    height: 20px;
+    text-align: center;
+    font-size: 1rem;
+
+}
+
+#submitbtn
+{
+    background-color: #FFFFFF;
+    border: 1px solid black;
+    border-radius: 9px;
+    height: 20px;
+    width: 90px;
+    text-align: center;
+    margin-left: px;
+    cursor: pointer;
+}
+
+#submitbtn:hover
+{
+    background-color: grey;
+}
